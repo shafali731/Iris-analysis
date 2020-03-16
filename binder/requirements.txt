@@ -3,3 +3,8 @@ ipython
 pandas
 vdom
 jupyterlab_launcher>=0.5.0
+scipy
+numpy
+matplotlib
+sklearn
+seaborn
