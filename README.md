@@ -1,7 +1,7 @@
-# JupyterLab + Binder
+# Iris Analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ezronis/iris-analysis/master?urlpath=lab)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ezronis/iris-analysis/master)
-
+## JupyterLab + Binder
 JupyterLab is packaged with Binder repositories by default. In order to
 run a JupyterLab session, you have two options:
 
