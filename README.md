@@ -1,5 +1,14 @@
-# Iris Analysis
+# Iris Dataset Case Study
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ezronis/iris-analysis/master?urlpath=lab)
+
+## Getting Started
+Open the Binder link above in a new tab for a guided analysis of the Iris Dataset. This case study will introduce the following fundamental concepts of data science: 
+* Installing the data science libraries
+* Loading the dataset.
+* Summarizing the dataset.
+* Visualizing the dataset.
+* Evaluating some algorithms.
+* Making some predictions.
 
 ## JupyterLab + Binder
 JupyterLab is packaged with Binder repositories by default. In order to
