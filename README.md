@@ -1,8 +1,11 @@
 # Iris Dataset Case Study
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/shyezroni/projects/iris-analysis)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ezronis/iris-analysis/master?urlpath=lab)
 
+<img src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/02/iris-machinelearning.png" width=70%>
+
 ## Getting Started
-Open the Binder link above in a new tab for a guided analysis of the Iris Dataset. This case study will introduce the following fundamental concepts of data science: 
+Open the Azure or Binder link above in a new tab for a guided analysis of the Iris Dataset. This case study will introduce the following fundamental concepts of data science: 
 * Installing the data science libraries
 * Loading the dataset.
 * Summarizing the dataset.
@@ -10,37 +13,9 @@ Open the Binder link above in a new tab for a guided analysis of the Iris Datase
 * Evaluating some algorithms.
 * Making some predictions.
 
-## JupyterLab + Binder
-JupyterLab is packaged with Binder repositories by default. In order to
-run a JupyterLab session, you have two options:
-
-## Start JupyterLab after you start your Binder
-
-Do the following:
-
-1. Launch a Binder instance (e.g., by clicking the Binder badge)
-2. Replace `tree` at the end of your URL with `lab`.
-3. That's it!
-
-## Create a Binder link that points to JupyterLab
-
-You can also create a Binder link that points to JupyterLab by adding the following
-to the end of your link:
-
-`?urlpath=lab`
-
-You can point to a specific file using JupterLab by including a file path
-beginning with `tree/` to the end of `urlpath`, like so:
-
-`?urlpath=lab/tree/path/to/my/notebook.ipynb`
-
-For example, the Binder badge above goes to the following URL:
-
-`http://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb`
-
-Note: this repository also installs several JupyterLab extensions via a `postBuild` script, allowing
-you to use JupyterLab's extensions and widgets functionality.
-
-For a more complete demo of JupyterLab using Binder, see the
-[JupyterLab Demo](https://github.com/jupyterlab/jupyterlab-demo). 
- 
+## Articles referenced in developing this case study
+https://github.com/jakevdp/PythonDataScienceHandbook/blob/97c8c91c5932f2b2a58bb97c000506f636ee661a/notebooks/05.02-Introducing-Scikit-Learn.ipynb
+https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://machinelearningmastery.com/k-fold-cross-validation/
+https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
