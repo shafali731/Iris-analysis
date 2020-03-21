@@ -14,8 +14,8 @@ Open the Azure or Binder link above in a new tab for a guided analysis of the Ir
 * Making some predictions.
 
 ## Articles referenced in developing this case study
-https://github.com/jakevdp/PythonDataScienceHandbook/blob/97c8c91c5932f2b2a58bb97c000506f636ee661a/notebooks/05.02-Introducing-Scikit-Learn.ipynb
-https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-https://machinelearningmastery.com/k-fold-cross-validation/
-https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342
+- https://github.com/jakevdp/PythonDataScienceHandbook/blob/97c8c91c5932f2b2a58bb97c000506f636ee661a/notebooks/05.02-Introducing-Scikit-Learn.ipynb
+- https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/
+- https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+- https://machinelearningmastery.com/k-fold-cross-validation/
+- https://medium.com/codebagng/basic-analysis-of-the-iris-data-set-using-python-2995618a6342# Iris-analysis
